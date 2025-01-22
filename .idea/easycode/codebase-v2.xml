@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/tafUserService/src/main/java/com/tekarch/tafUserService/Controllers/UserController.java;C:/Users/kppra/tafUserService/tafUserService/src/main/java/com/tekarch/tafUserService/DTO/UserDTO.java;C:/Users/kppra/tafUserService/tafUserService/src/main/java/com/tekarch/tafUserService/Services/Interfaces/UserServiceInterface.java;C:/Users/kppra/tafUserService/tafUserService/src/main/java/com/tekarch/tafUserService/Services/UserServiceImpl.java;C:/Users/kppra/tafUserService/tafUserService/src/main/java/com/tekarch/tafUserService/TafUserServiceApplication.java;C:/Users/kppra/tafUserService/tafUserService/src/test/java/com/tekarch/tafUserService/TafUserServiceApplicationTests.java" />
+  </component>
+</project>
