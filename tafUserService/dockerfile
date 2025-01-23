@@ -1,0 +1,6 @@
+
+FROM amazoncorretto:17
+WORKDIR /app
+COPY build/libs/tafUser.jar tafUser.jar
+EXPOSE 8081
+ENTRYPOINT ["java", "-jar", "tafUser.jar"]
